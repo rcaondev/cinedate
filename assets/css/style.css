@@ -1,0 +1,17 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .container {
+    max-width: 600px;
+  }
+  
+.resultado-filme {
+    padding: 8px;
+    cursor: pointer;
+}
+  
+.resultado-filme:hover {
+    background-color: #f0f0f0;
+}
+    
